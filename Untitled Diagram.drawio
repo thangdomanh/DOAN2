@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T07:30:19.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="22.0.4" etag="Gl0qB0d8ZDzP3_rJ2KFr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T07:38:57.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Hovu95TlIGAXqAiZoEH9" version="22.0.4" type="github">
   <diagram name="Page-1" id="7_j79GaDi73mLctOwNKx">
-    <mxGraphModel>
+    <mxGraphModel dx="777" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="290" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-2" value="Khối cảm biến" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="360" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-3" value="&amp;nbsp;Khối nguồn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="290" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-5" value="Khối điều khiển" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="360" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-6" value="Khối server&lt;br&gt;WIFI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="230" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-7" value="Client&lt;br&gt;Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="220" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-8" value="Cảm biến cân nặng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmSl7qpRgAFoq77gJWqQ-9" value="Camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
